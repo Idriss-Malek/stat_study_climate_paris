@@ -1,0 +1,3 @@
+nano .gitignore
+climate.csv
+.ipynb_checkpoints
